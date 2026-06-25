@@ -1,3 +1,4 @@
+#To calculate final prices after discount using loops
 
 prices = [100, 200, 300]
 
